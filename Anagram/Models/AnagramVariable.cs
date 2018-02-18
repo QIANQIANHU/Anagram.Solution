@@ -6,26 +6,21 @@ namespace Anagram.Models
   {
     private string _wordOne;
     private string _wordTwo;
-    private int _id;
 
-    public string GetUserName()
+    public AnagramVariable(string wordOne, string wordTwo)
+    {
+      _wordOne = wordOne;
+      _wordTwo = wordTwo;
+    }
+
+    public string GetWordOne()
     {
       return _wordOne;
     }
-
-    public void SetUserName(string newUserName)
-    {
-      _wordOne = newUserName;
-    }
-
-    public string GetPhoneNumber()
+    public string GetWordTwo()
     {
       return _wordTwo;
     }
 
-    public void SetPhoneNumber(string newPhoneNumber)
-    {
-      _wordTwo = newPhoneNumber;
-    }
   }
 }

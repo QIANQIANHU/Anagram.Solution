@@ -1,0 +1,14 @@
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.deps.json
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.runtimeconfig.json
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.runtimeconfig.dev.json
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.csproj.CoreCompileInputs.cache
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.AssemblyInfo.cs
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.dll
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.pdb
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.dll
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.pdb
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.dll
+/Users/qianqianhu/Desktop/C#/Anagram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.pdb

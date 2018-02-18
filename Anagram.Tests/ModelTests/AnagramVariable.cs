@@ -9,15 +9,15 @@ namespace Anagram.TestTools{
   public class AnagramTest
   {
     [TestMethod]
-    public void Get WordOne_ReturnWordOne_String()
+    public void GetWord_ReturnWord_String()
     {
       //Arrange
-      string wordOne = "wordOne";
+      string wordOne = "lalala";
       AnagramVariable wordOneInst = new AnagramVariable(wordOne,"");
-
       //Act
-
+      string wordOneResult = wordOneInst.GetWordOne();
       //Assert
+      Assert.AreEqual(wordOne,wordOneResult);
     }
   //   [TestMethod]
   //   public void Get WordOne_ReturnWordOne_String()
@@ -28,5 +28,5 @@ namespace Anagram.TestTools{
   //
   //     //Assert
   //   }
-  // }
+  }
 }

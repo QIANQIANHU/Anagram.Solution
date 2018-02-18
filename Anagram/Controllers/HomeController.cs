@@ -6,18 +6,24 @@ using Anagram.Models;
 namespace Anagram.Controllers
 {
     public class HomeController : Controller
-    // {
-    //   [HttpGet("/")]
-    //   public ActionResult Index()
-    //   {
-    //     return View(ContactVariable.GetAll());
-    //   }
+    {
+      [HttpGet("/")]
+      public ActionResult Index()
+      {
+        return View();
+      }
 
-      // [HttpGet("/create-form")]
-      // public ActionResult CreateForm()
-      // {
-      //   return View();
-      // }
+      [HttpGet("/create-form")]
+      public ActionResult CreateForm()
+      {
+        return View();
+      }
+
+      [HttpPost("/Result")]
+      public ActionResult Result()
+      {
+        return View("Result");
+      }
 
       // [HttpPost("/")]
       // public ActionResult PostContact()
